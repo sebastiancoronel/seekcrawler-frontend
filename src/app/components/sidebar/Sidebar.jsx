@@ -28,6 +28,9 @@ export default function Sidebar({children} ) {
           <li>
             <Link href={'/charts'}>Charts</Link>
           </li>
+          <li>
+            <Link href={'/chat-ai'}>✨ Chat with AI</Link>
+          </li>
         </ul>
       </div>
     </div>
